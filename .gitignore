@@ -1,0 +1,11 @@
+#Subdirectories
+
+**/figures
+**/data/image_volumes
+**/data/metadata
+
+#File types
+
+*.nrrd
+*.docx
+*.nii.gz
