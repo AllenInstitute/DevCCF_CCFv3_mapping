@@ -14,10 +14,10 @@ All code is written in the python (3.11) environment
 
 Required packages:
 
-`anndata >= 0.9`
-`anytree >= 2.7`
-`plotly >= 5.10`
-`seaborn >= 0.12`
+`anndata >= 0.9 /n
+anytree >= 2.7 \n
+plotly >= 5.10 \n
+seaborn >= 0.12 \n
 `SimpleITK >= 2.0`
 
 
