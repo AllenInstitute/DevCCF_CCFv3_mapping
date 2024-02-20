@@ -1,6 +1,27 @@
-# DevCCF_CCFv3_mapping
+# DevCCF to CCFv3 mapping
 
 Code for generating analyses for Figure 5 in Kronman et al. (doi: 10.1101/2023.09.14.557789)
+
+### Requirements
+
+#### System requirements
+
+Mapping requires a single computer workstation with enough memory to load data.
+
+#### Dependencies
+
+All code is written in the python (3.11) environment
+
+Required packages:
+
+`anndata >= 0.9
+anytree >= 2.7
+plotly >= 5.10
+seaborn >= 0.12
+SimpleITK >= 2.0`
+
+
+DevCCF to CCFv3 
 
 ### Level of support
 

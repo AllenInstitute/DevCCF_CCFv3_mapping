@@ -1,7 +1,7 @@
 """
 Set of functions to access Allen Brain cell (ABC) atlas, download MERFISH data, and annotate with DevCCF labels.
 """
-import os, json, requests, pathlib, anndata, subprocess, time
+import os, json, requests, pathlib, subprocess, time
 import pandas as pd
 import matplotlib.pyplot as plt
 
