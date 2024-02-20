@@ -22,6 +22,9 @@ seaborn >= 0.12
 SimpleITK >= 2.0
 ```
 
+### Data
+
+The `/data` subdirectory contains a set of .csv and .json files used to generate the figures. Users will need to acquire image volumes used in the manuscript, which can be found [here](https://kimlab.io/brain-map/DevCCF/)
 
 ### Level of support
 
